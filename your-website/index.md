@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "About Me"
+permalink: /
 ---
 
 <img src="/assets/profile.jpg" alt="Profile Photo" class="profile-photo">
