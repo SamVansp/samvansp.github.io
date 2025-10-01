@@ -9,6 +9,8 @@ permalink: /
 Hi, I’m **Sam Vanspriell!**. I work at the intersection of **environmental science, conservation, and data**.  
 This site highlights my projects, professional experience, and ways to get in touch.  
 
+TEst
+
 ---
 
 ### 🌱 Current Update
