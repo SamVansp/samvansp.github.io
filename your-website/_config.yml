@@ -9,3 +9,4 @@ theme: minima
 collections:
   pages:
     output: true
+ 
