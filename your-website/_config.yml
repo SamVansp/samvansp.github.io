@@ -1,8 +1,9 @@
-title: "Sam Vanspriell"
+title: "Sam Vanspriell test"
 description: "Personal website"
 baseurl: ""
 url: "https://samvansp.github.io"
 
+markdown: kramdown
 
 # Navigation
 collections:
