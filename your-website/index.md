@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Home
+title: "About Me"
+permalink: /
 ---
 
 
@@ -9,7 +10,7 @@ title: Home
 Hi, I’m **Sam Vanspriell!**. I work at the intersection of **environmental science, conservation, and data**.  
 This site highlights my projects, professional experience, and ways to get in touch.  
 
-TEst 1
+TEst 3
 
 ---
 
