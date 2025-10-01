@@ -3,7 +3,6 @@ description: "Personal website"
 baseurl: ""
 url: "https://samvansp.github.io"
 
-theme: minima
 
 # Navigation
 collections:
